@@ -1,6 +1,6 @@
 {
   "CONTRACT_ADDRESS": "0x68444d5D2060273e1F9A96DF3E33279e588f0777",
-  "SCAN_LINK": "https://testnet.snowtrace.io/address/0x8a55277e57d5137afbb1627a61dbc00756b88cf7",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0x68444d5d2060273e1f9a96df3e33279e588f0777",
   "NETWORK": {
     "NAME": "Goerli Test Network",
     "SYMBOL": "Eth",

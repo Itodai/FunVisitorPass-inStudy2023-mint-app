@@ -310,7 +310,7 @@ function App() {
                       <div>
                         <StyledLink
                           target={"_blank"}
-                          href="https://faucet.avax.network/"
+                          href="https://goerli-faucet.pk910.de/"
                         >
                           SETTING & FAUCET
                         </StyledLink>
