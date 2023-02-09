@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x68444d5D2060273e1F9A96DF3E33279e588f0777",
-  "SCAN_LINK": "https://goerli.etherscan.io/token/0x68444d5d2060273e1f9a96df3e33279e588f0777",
+  "CONTRACT_ADDRESS": "0xA46677D23eA77F073E9dcbFe5F4A687956ba4979",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xa46677d23ea77f073e9dcbfe5f4a687956ba4979",
   "NETWORK": {
     "NAME": "Goerli Test Network",
     "SYMBOL": "Eth",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/ja/collection/testvisitorpass",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/ja/collection/funvisitorpassinstudy2023",
   "SHOW_BACKGROUND": true
 }
